@@ -71,55 +71,43 @@
 </style>
 
 <!-- Fixed navbar -->
-<nav class="navbar navbar-custom navbar-fixed-top">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <%--<a class="navbar-brand" href="#">Transcript & Electronic Exam Delivery System</a>--%>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
-                <li class="active"><a href="/">Summary</a></li>
-                <li><a href="displayAboutProjectPage">About</a></li>
-                <li><a href="#">History</a></li>
-                <li><a href="#">History</a></li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                       aria-expanded="false">Secret Operaitons<span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="addStudent">Operation Solomon</a></li>
-                        <li><a href="addTeacher">Operation Moses</a></li>
-                        <li><a href="addSubject">Operation Sheba</a></li>
-                        <li><a href="assignStudentOrTeacher">Another</a></li>
-                        <li><a href="gradesubject">Even more</a></li>
+<div class="row">
+    <div class="col-sm-12" style="background-color:yellow;">
+        <nav class="navbar navbar-custom navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <%--<a class="navbar-brand" href="#">Transcript & Electronic Exam Delivery System</a>--%>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="/">Summary</a></li>
+                        <li><a href="displayAboutProjectPage">About</a></li>
+                        <li><a href="#">History</a></li>
+                        <li><a href="#">History</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                               aria-expanded="false">Secret Operaitons<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="getOperationSolomonPage">Operation Solomon</a></li>
+                                <li><a href="getOperationMosesPage">Operation Moses</a></li>
+                                <li><a href="#">Operation Sheba</a></li>
+                                <li><a href="#">Another</a></li>
+                                <li><a href="#">Even more</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Current Situation</a></li>
                     </ul>
-                </li>
-                <li><a href="#">Current Situation</a></li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li class="active"><a href="#"><strong>References/Resources</strong> <span class="sr-only">(current)</span></a></li>
-            </ul>
-        </div><!--/.nav-collapse -->
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a href="#"><strong>References/Resources</strong> <span class="sr-only">(current)</span></a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </nav>
     </div>
-</nav>
-
-<!--<nav class="navbar navbar-custom navbar-fixed-top">-->
-    <!--<div class="container">-->
-        <!--<center><h2>Geter Fanna</h2></center>-->
-    <!--</div>-->
-<!--</nav>-->
-
-
-<!--<body>-->
-
-<!--&lt;!&ndash;<div class="container">&ndash;&gt;-->
-    <!--<div class="row">-->
-        <!--<div class="col-sm-12">-->
-            <!--<div class="panel panel-success">-->
-                <!--<div class="panel-heading">School of Patriots Header</div>-->
-                <!--<div class="panel-body">-->
+</div>

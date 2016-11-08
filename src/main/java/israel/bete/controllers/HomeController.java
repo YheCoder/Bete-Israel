@@ -27,5 +27,17 @@ public class HomeController {
 
         return "about_the_project";
     }
+
+    @RequestMapping("/getOperationSolomonPage")
+    public String getOperationSolomonPage() throws Exception {
+
+        return "operation_solomon";
+    }
+
+    @RequestMapping("/getOperationMosesPage")
+    public String getOperationMosesPage() throws Exception {
+
+        return "operation_moses";
+    }
     
 }
