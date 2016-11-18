@@ -19,7 +19,7 @@ public class HomeController {
     @RequestMapping("/")
     public String goToHomePage() throws Exception {
 
-        return "index";
+        return "about_the_project";
     }
 
     @RequestMapping("/displayAboutProjectPage")
@@ -28,16 +28,34 @@ public class HomeController {
         return "about_the_project";
     }
 
-    @RequestMapping("/getOperationSolomonPage")
-    public String getOperationSolomonPage() throws Exception {
+    @RequestMapping("/getSecretOperationsPage")
+    public String getSecretOperationsPage() throws Exception {
 
-        return "operation_solomon";
+        return "secret_operations";
     }
 
-    @RequestMapping("/getOperationMosesPage")
-    public String getOperationMosesPage() throws Exception {
+    @RequestMapping("/getRecentCurrentIncidentsSituationsPage")
+    public String getRecentCurrentIncidentsSituationsPage() throws Exception {
 
-        return "operation_moses";
+        return "recent_and_current_situations_incidents";
     }
-    
+
+    @RequestMapping("/getSummaryPage")
+    public String getSummaryPage() throws Exception {
+
+        return "summary";
+    }
+
+//    @RequestMapping("/getOperationSolomonPage")
+//    public String getOperationSolomonPage() throws Exception {
+//
+//        return "operation_solomon";
+//    }
+//
+//    @RequestMapping("/getOperationMosesPage")
+//    public String getOperationMosesPage() throws Exception {
+//
+//        return "operation_moses";
+//    }
+//
 }

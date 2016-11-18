@@ -1,8 +1,6 @@
 
 
 
- </div>
-
-</body>
+  </body>
 
 </html>

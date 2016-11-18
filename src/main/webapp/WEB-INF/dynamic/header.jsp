@@ -86,22 +86,11 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="/">Summary</a></li>
                         <li><a href="displayAboutProjectPage">About</a></li>
                         <li><a href="#">History</a></li>
-                        <li><a href="#">History</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                               aria-expanded="false">Secret Operaitons<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="getOperationSolomonPage">Operation Solomon</a></li>
-                                <li><a href="getOperationMosesPage">Operation Moses</a></li>
-                                <li><a href="#">Operation Sheba</a></li>
-                                <li><a href="#">Another</a></li>
-                                <li><a href="#">Even more</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Current Situation</a></li>
+                        <li><a href="getSecretOperationsPage">Secret Operations</a></li>
+                        <li><a href="getRecentCurrentIncidentsSituationsPage">Recent Situations/Incidents</a></li>
+                        <li><a href="getSummaryPage">Summary</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="#"><strong>References/Resources</strong> <span class="sr-only">(current)</span></a></li>
@@ -111,3 +100,5 @@
         </nav>
     </div>
 </div>
+
+<body style="background-color:lightsalmon">
