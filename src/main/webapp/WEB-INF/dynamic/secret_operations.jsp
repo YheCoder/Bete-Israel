@@ -32,7 +32,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="/images/OperationSolomon/operation-solomon.jpg" alt="Chania" width="89" height="50">
+                <img src="/images/operation_solomon.jpg" alt="Chania" width="89" height="50">
                 <style>
                     .carousel-caption {
                         position: relative;
@@ -75,15 +75,15 @@
             </div>
 
             <div class="item">
-                <img src="/images/OperationSolomon/operation-solomon1.jpg" alt="Chania" width="89" height="50">
+                <img src="/images/operation_solomon1.jpg" alt="Chania" width="89" height="50">
             </div>
 
             <div class="item">
-                <img src="/images/OperationSolomon/operation-solomon2.jpg" alt="Flower" width="89" height="50">
+                <img src="/images/operation_solomon1.jpg" alt="Flower" width="89" height="50">
             </div>
 
             <div class="item">
-                <img src="/images/OperationSolomon/operation-solomon2.jpg" alt="Flower" width="89" height="50">
+                <img src="/images/operation_solomon1.jpg" alt="Flower" width="89" height="50">
             </div>
         </div>
 
