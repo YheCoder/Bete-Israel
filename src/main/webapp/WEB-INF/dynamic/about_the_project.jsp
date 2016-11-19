@@ -1,5 +1,7 @@
 <%@include  file="header.jsp" %>
 
+<title>About the Project</title>
+
 <br><br><br><br>
 
 <div class="container">

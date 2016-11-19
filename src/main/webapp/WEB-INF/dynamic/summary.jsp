@@ -2,6 +2,8 @@
 
 <br><br><br><br>
 
+<title>Summary</title>
+
 <div class="container">
 
     <!-- Main component for a primary marketing message or call to action -->

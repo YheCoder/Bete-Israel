@@ -2,6 +2,8 @@
 
 <%@include  file="header.jsp" %>
 
+<title>Recent Situations</title>
+
 <br><br><br><br>
 
     <div class="container">
