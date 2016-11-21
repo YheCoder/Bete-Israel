@@ -22,7 +22,20 @@
 </head>
 
 <div class="container">
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+        <style>
+            .test {
+                position: absolute;
+                left: 0;
+            }
+        </style>
+        <div class="test">
+            <h1>Testing
+                this cool thing
+            </h1>
+        </div>
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="20000">
         <!-- Indicators -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -42,13 +55,21 @@
                         right: auto;
                     }
                 </style>
-                <div class="carousel-caption">
-                    <div class="panel panel-success" style="background-color:lightslategrey">
+
+                <div class="carousel-caption"><br>
+                    <div class="panel panel-success" >
                         <div class="panel-heading"> Secret Operations</div>
-                        <div class="panel-body">
+                        <div class="panel-body" style="background-color:darkgray">
                             <style>
-                                p{
-                                    color:lightpink;
+                                h4 {
+                                    color:orangered;
+                                    /*For example, 12px font-size and 4px distant from the bottom and upper lines:*/
+
+                                    /*line-height: 20px; !* 4px +12px + 4px *!*/
+                                    line-height: 2;
+                                    padding-right: 1.5cm;
+                                    padding-left: 1.5cm;
+                                    text-align:justify;
                                 }
                             </style>
                             <p><h4>

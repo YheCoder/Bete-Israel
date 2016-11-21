@@ -99,4 +99,13 @@
     </div>
 </div>
 
-<body style="background-color:lightsalmon">
+<style>
+    html, body {
+        background: url("/images/combined_flags.jpg") no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+</style>
+<body>

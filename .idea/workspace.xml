@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9d72d4-4484-4f0b-b0d4-314b6e86117b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/gs-serving-web-content-0.1.0.jar" afterPath="$PROJECT_DIR$/build/libs/gs-serving-web-content-0.1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/gs-serving-web-content-0.1.0.jar.original" afterPath="$PROJECT_DIR$/build/libs/gs-serving-web-content-0.1.0.jar.original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp" />
     </list>
     <ignored path="Bete Israel.iws" />
@@ -40,7 +49,7 @@
       <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/israel/bete/controllers/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="480">
               <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secret_operations.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="secret_operations.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="1050">
+              <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -79,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+            <state relative-caret-position="578">
+              <caret line="106" column="34" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -538,11 +547,11 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/operation_solomon.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/footer.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/israel/bete/controllers/HomeController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/summary.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/about_the_project.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/recent_and_current_situations_incidents.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp" />
       </list>
     </option>
   </component>
@@ -562,7 +571,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="716" />
+    <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -589,6 +598,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -807,9 +819,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1247,15 +1256,17 @@
       <workItem from="1479221077500" duration="477000" />
       <workItem from="1479438987478" duration="5392000" />
       <workItem from="1479498841954" duration="3347000" />
-      <workItem from="1479578614120" duration="654000" />
+      <workItem from="1479578614120" duration="3918000" />
+      <workItem from="1479751759079" duration="199000" />
+      <workItem from="1479767113032" duration="410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14787000" />
+    <option name="totallyTimeSpent" value="18660000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="716" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="811" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1303,6 +1314,74 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/israel/bete/controllers/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/summary.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/about_the_project.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/recent_and_current_situations_incidents.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/israel/bete/controllers/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/israel/bete/controllers/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -1528,25 +1607,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/israel/bete/controllers/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="480">
           <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1558,6 +1621,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -1578,10 +1649,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="106" column="34" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
           <folding />
         </state>
       </provider>
