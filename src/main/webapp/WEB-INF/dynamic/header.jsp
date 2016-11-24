@@ -85,13 +85,13 @@
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="displayAboutProjectPage">About</a></li>
-                        <li><a href="#">History</a></li>
+                        <li><a href="getHistoryPage">History</a></li>
                         <li><a href="getSecretOperationsPage">Secret Operations</a></li>
                         <li><a href="getRecentCurrentIncidentsSituationsPage">Recent Situations/Incidents</a></li>
                         <li><a href="getSummaryPage">Summary</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="#"><strong>References/Resources</strong> <span class="sr-only">(current)</span></a></li>
+                        <li class="active"><a href="getReferencesAndResourcesPage"><strong>References/Resources</strong> <span class="sr-only">(current)</span></a></li>
                     </ul>
                 </div><!--/.nav-collapse -->
             </div>

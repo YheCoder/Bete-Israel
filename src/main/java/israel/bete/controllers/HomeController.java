@@ -46,16 +46,15 @@ public class HomeController {
         return "summary";
     }
 
-//    @RequestMapping("/getOperationSolomonPage")
-//    public String getOperationSolomonPage() throws Exception {
-//
-//        return "operation_solomon";
-//    }
-//
-//    @RequestMapping("/getOperationMosesPage")
-//    public String getOperationMosesPage() throws Exception {
-//
-//        return "operation_moses";
-//    }
-//
+    @RequestMapping("/getHistoryPage")
+    public String getHistoryPage() throws Exception {
+
+        return "history";
+    }
+    @RequestMapping("/getReferencesAndResourcesPage")
+    public String getReferencesAndResourcesPage() throws Exception {
+
+        return "works_cited";
+    }
+
 }

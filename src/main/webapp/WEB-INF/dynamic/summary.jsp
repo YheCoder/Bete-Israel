@@ -10,7 +10,7 @@
     <div class="jumbotron">
         <h1>Summary</h1>
         <p>The Bete Israel enduring a terrible situation that was polarized by the regional
-            and world politics at the time.
+            and world politics at the time's travel.
         </p>
 
     </div>
