@@ -42,7 +42,7 @@
         the &#34New Israel,&#34 Ethiopia (KN 34-36 & 71). What is evident from this account, and according to Ethiopian Orthodox
         Tewahido Christianity traditions, the coming of the Ark marked the official transition of the “New Israel” from
         &#34Hige Libona&#34 (the Law of the Heart) to the Law of Mosses; and the ark played an important role in the Jewish
-        faith, for it “served as the only physical manifestation of [the] God [of Jewish people] on earth,” as the Jewish
+        faith, for it “served as the only physical manifestation of [the] God [of Jewish people] on earth," as the Jewish
         Virtual Library (JVL) describes it.
         <br>
         The Queen of Sheba story is also described in the Bible, and according to Spector, probably the “most famous and
@@ -51,6 +51,14 @@
         Christians believe to this date that the ark exists in northern part of the country, and the replicas of the
         ark are at the center of the practices of the church. These show that Judaism had been heavily practiced in
         Ethiopia perhaps, as the Ethiopian church claims, more strongly than in the Israel of the Bible.
+        <br>
+        Furthermore, the Queen of Sheba account suggests that the Falashas are original Ethiopians because the queen--who
+            was Ethiopian--brought the faith to all Ethiopians who accepted it. However, there is no consensus among scholars
+            on the exact origins of the Bete Israel. For instance, some scholars claim that the Bete Israel migrated from outside
+            of Ethiopia, such as southern Arabia; others explain that the Felasha are indigenous Ethiopian people who later adopted
+            Judaism in support of the Queen of Sheba argument (Spector 3). On the other hand, some believe that the Felashas are
+            the descendants of the lost tribe of Dan, which was one of the tribes of Israel that vanished after the Assyrians
+            conquered it around 722 B.C (Ojanuga 147).
         </p>
     </div>
 

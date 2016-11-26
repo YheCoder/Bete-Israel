@@ -51,10 +51,16 @@ public class HomeController {
 
         return "history";
     }
+
     @RequestMapping("/getReferencesAndResourcesPage")
     public String getReferencesAndResourcesPage() throws Exception {
 
         return "works_cited";
     }
 
+    @RequestMapping("/getDataAndGraphPage")
+    public String getDataAndGraphPage() throws Exception {
+
+        return "data_and_graph";
+    }
 }

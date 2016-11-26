@@ -105,7 +105,7 @@
                 <img src="/images/operation_solomon1.jpg" alt="Solomon" width="89" height="50">
                 <div class="carousel-caption"><br>
                     <div class="panel panel-warning">
-                        <div class="panel-heading" > <h4 style="color:red"> Operation Moses</h4></div>
+                        <div class="panel-heading" > <h4 style="color:red"> Operation Solomon</h4></div>
                         <div class="panel-body" style="background-color:green">
                             <style>
                                 h3 {
