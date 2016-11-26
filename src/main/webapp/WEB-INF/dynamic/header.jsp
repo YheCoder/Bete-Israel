@@ -86,6 +86,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="displayAboutProjectPage">About</a></li>
                         <li><a href="getHistoryPage">History</a></li>
+                        <li><a href="getFaithAndTradtionPage">Faith & Tradtion</a></li>
                         <li><a href="getSecretOperationsPage">Secret Operations</a></li>
                         <li><a href="getRecentCurrentIncidentsSituationsPage">Recent Situations/Incidents</a></li>
                         <li><a href="getSummaryPage">Summary</a></li>

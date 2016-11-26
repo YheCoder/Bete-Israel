@@ -63,4 +63,10 @@ public class HomeController {
 
         return "data_and_graph";
     }
+
+    @RequestMapping("/getFaithAndTradtionPage")
+    public String getFaithAndTradtionPage() throws Exception {
+
+        return "faith_and_tradition";
+    }
 }
