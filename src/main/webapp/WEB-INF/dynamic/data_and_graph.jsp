@@ -25,7 +25,6 @@
 
         <p>Some graph
         </p>
-
     </div>
 
 </div>

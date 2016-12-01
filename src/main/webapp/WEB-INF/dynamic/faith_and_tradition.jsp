@@ -1,9 +1,29 @@
 <%@include  file="header.jsp" %>
 
-<br><br><br><br>
+<br><br><br>
 
 <title>Faith and Tradtion</title>
 
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <style>
+        .carousel-inner > .item > img,
+        .carousel-inner > .item > a > img {
+            /*width: 60%;*/
+            height: 40%;
+            margin: auto;
+            min-width: 80%;
+        }
+    </style>
+</head>
+
+
+<div class="row">
 <div class="container">
     <style>
         p {
@@ -19,7 +39,7 @@
     </style>
     <!-- Main component for a primary marketing message or call to action -->
     <div class="jumbotron">
-        <h3>Faith and Tradtion</h3>
+        <center><h3>Faith and Tradtion</h3></center>
         <p>
         Bete Israel did not call themselves Felasha. And until recently, the Felasha did not call themselves
         Jewish people; "American activists invented the term `Ethiopian Jews`, and by mid-1970s the Bete Israel
@@ -44,6 +64,7 @@
         </p>
     </div>
 
+</div>
 </div>
 
 <%@include  file="footer.jsp" %>

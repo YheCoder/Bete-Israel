@@ -29,7 +29,7 @@
                 text-align:justify;
             }
         </style>
-        <center><h2>Works Cited:</h2></center>
+        <center><h2>Works Cited</h2></center>
         <p>
             Anteby-Yemini, Lisa. "ISRAELIS OF ETHIOPIAN ORIGIN: NEW IDENTITY CONSTRUCTS AND	RESEARCH MODELS."
             Toward an Anthropology of Nation Building and Unbuilding in	Israel. Ed. FRAN MARKOWITZ, STEPHEN SHAROT,

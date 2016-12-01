@@ -8,10 +8,175 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-    <title>History </title>
+    <title>Secret Operations</title>
 
+    <style>
+        .carousel-inner > .item > img,
+        .carousel-inner > .item > a > img {
+            /*width: 60%;*/
+            height: 40%;
+            margin: auto;
+            min-width: 80%;
+        }
+    </style>
 </head>
 
+<div class="row">
+<div class="container" style="position: relative">
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="20000">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="/images/horse-sheba.jpg" alt="Sheba" width="89" height="50">
+                <style>
+                    .carousel-caption {
+                        position: relative;
+                        left: auto;
+                        right: auto;
+                    }
+                    .carousel-control {
+                        position: absolute;
+                        top: 0%; /* pushes the icon in the middle of the height */
+                        z-index: 1;
+                        display: inline-block;
+                    }
+                </style>
+
+                <div class="carousel-caption"><br>
+                    <div class="panel panel-warning">
+                        <div class="panel-heading" > <h4 style="color:red"> Queen of Sheba</h4></div>
+                        <div class="panel-body" style="background-color:green">
+                            <style>
+                                h3 {
+                                    color:white;
+                                    font-family: "Arial";
+                                    /*For example, 12px font-size and 4px distant from the bottom and upper lines:*/
+
+                                    /*line-height: 20px; !* 4px +12px + 4px *!*/
+                                    line-height: 2;
+                                    padding-right: 1.5cm;
+                                    padding-left: 1.5cm;
+                                    text-align:justify;
+                                }
+                            </style>
+                            <p><h3>
+                            The Queen of Sheba visits Solomon. Bears Menilik I.
+                        </h3>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="/images/ark.jpg" alt="Solomon" width="89" height="50">
+                <div class="carousel-caption"><br>
+                    <div class="panel panel-warning">
+                        <div class="panel-heading" > <h4 style="color:red"> The Ark of The Covenant</h4></div>
+                        <div class="panel-body" style="background-color:green">
+                            <style>
+                                h3 {
+                                    color:white;
+                                    font-family: "Arial";
+                                    /*For example, 12px font-size and 4px distant from the bottom and upper lines:*/
+
+                                    /*line-height: 20px; !* 4px +12px + 4px *!*/
+                                    line-height: 2;
+                                    padding-right: 1.5cm;
+                                    padding-left: 1.5cm;
+                                    text-align:justify;
+                                }
+                            </style>
+                            <p><h3>
+                            Menilik I brings the Ark of the Covenant to Ethiopia.
+                        </h3>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="/images/12_Tribes_of_Israel_Map.png" alt="Dan" width="89" height="50">
+                <div class="carousel-caption"><br>
+                    <div class="panel panel-warning">
+                        <div class="panel-heading" > <h4 style="color:red"> Descendants of the Lost Tribe of Dan</h4></div>
+                        <div class="panel-body" style="background-color:green">
+                            <style>
+                                h3 {
+                                    color:white;
+                                    font-family: "Arial";
+                                    /*For example, 12px font-size and 4px distant from the bottom and upper lines:*/
+
+                                    /*line-height: 20px; !* 4px +12px + 4px *!*/
+                                    line-height: 2;
+                                    padding-right: 1.5cm;
+                                    padding-left: 1.5cm;
+                                    text-align:justify;
+                                }
+                            </style>
+                            <p><h3>
+
+                        </h3>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="/images/saudi-arabia-map.jpg" alt="Saudi" width="89" height="50">
+                <div class="carousel-caption"><br>
+                    <div class="panel panel-warning">
+                        <div class="panel-heading" > <h4 style="color:red"> Migrated from Outside</h4></div>
+                        <div class="panel-body" style="background-color:green">
+                            <style>
+                                h3 {
+                                    color:white;
+                                    font-family: "Arial";
+                                    /*For example, 12px font-size and 4px distant from the bottom and upper lines:*/
+
+                                    /*line-height: 20px; !* 4px +12px + 4px *!*/
+                                    line-height: 2;
+                                    padding-right: 1.5cm;
+                                    padding-left: 1.5cm;
+                                    text-align:justify;
+                                }
+                            </style>
+                            <p><h3>
+                            Some suggest Bete Israel immigrated to Ethiopia from outside such as south Arabia.
+                        </h3>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+
+    </div>
+</div>
+</div>
+</div> <!-- /container -->
+
+<div class="row">
 <div class="container">
 
     <!-- Main component for a primary marketing message or call to action -->
@@ -62,6 +227,7 @@
         </p>
     </div>
 
+</div>
 </div>
 
 <%@include  file="footer.jsp" %>
