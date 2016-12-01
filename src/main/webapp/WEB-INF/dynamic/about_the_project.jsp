@@ -2,7 +2,7 @@
 
 <title>About the Project</title>
 
-<br><br><br><br>
+<br><br><br>
 
 <div class="container">
 
@@ -19,7 +19,11 @@
             Ethiopian origin and their current struggles with problems they face are briefly examined.
             </span>
         </p>
-
+        <br>
+        <center><h2>Where Bete Israel Lived</h2> <br>
+        <img src="/images/The_Area_Of_Beta_Israel_Jewish_Community.png"
+             alt="Place" style="width:804px;height:628px;"><br> <br>
+        <img src="/images/ras_dashen.jpg" alt="Ras Dashen" style="width:804px;height:628px;"></center>
     </div>
 
 </div>

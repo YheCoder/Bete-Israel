@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9d72d4-4484-4f0b-b0d4-314b6e86117b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/operation_solomon1.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/data_and_graph.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/data_and_graph.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/faith_and_tradition.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/faith_and_tradition.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/history.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/history.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/recent_and_current_situations_incidents.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/recent_and_current_situations_incidents.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/summary.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/summary.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/works_cited.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/works_cited.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/The_Area_Of_Beta_Israel_Jewish_Community_Wikipedia.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/about_the_project.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/about_the_project.jsp" />
     </list>
     <ignored path="Bete Israel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,11 +38,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="faith_and_tradition.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="faith_and_tradition.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/faith_and_tradition.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="300">
+              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_the_project.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/about_the_project.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recent_and_current_situations_incidents.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/recent_and_current_situations_incidents.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -483,7 +495,6 @@
         <option value="$PROJECT_DIR$/src/main/java/israel/bete/configuration/SpringMVCConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/operation_moses.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/operation_solomon.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/about_the_project.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/footer.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/israel/bete/controllers/HomeController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/secret_operations.jsp" />
@@ -494,6 +505,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/history.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/header.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/faith_and_tradition.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/about_the_project.jsp" />
       </list>
     </option>
   </component>
@@ -1081,12 +1093,12 @@
       <workItem from="1480018418352" duration="5906000" />
       <workItem from="1480190557680" duration="3485000" />
       <workItem from="1480194519116" duration="783000" />
-      <workItem from="1480564039069" duration="9131000" />
+      <workItem from="1480564039069" duration="9787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44141000" />
+    <option name="totallyTimeSpent" value="44797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="716" extended-state="1" />
@@ -1517,14 +1529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/about_the_project.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1583,14 +1587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/recent_and_current_situations_incidents.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="73" column="58" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/works_cited.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -1601,8 +1597,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/faith_and_tradition.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="300">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/recent_and_current_situations_incidents.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dynamic/about_the_project.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
           <folding />
         </state>
       </provider>
