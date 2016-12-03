@@ -21,6 +21,10 @@
         </p>
         <br>
         <center><h2>Where Bete Israel Lived</h2> <br>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8016025.348276132!2d33.5892603826234!3d11.
+            182091883186121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164328823d244edf%3A0x7826245358a8a65!2s
+            Gondar%2C+Ethiopia!5e0!3m2!1sen!2sus!4v1480799755747"
+                    width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br><br>
         <img src="/images/The_Area_Of_Beta_Israel_Jewish_Community.png"
              alt="Place" style="width:804px;height:628px;"><br> <br>
         <img src="/images/ras_dashen.jpg" alt="Ras Dashen" style="width:804px;height:628px;"></center>
