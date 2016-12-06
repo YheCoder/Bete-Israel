@@ -8,7 +8,23 @@
 
     <!-- Main component for a primary marketing message or call to action -->
     <div class="jumbotron">
-        <h2>From Zion to Israel: Ethiopian Jews' Immigration to Israel</h2>
+        <style>
+            p {
+                font-family: "Arial";
+                /*For example, 12px font-size and 4px distant from the bottom and upper lines:*/
+
+                /*line-height: 20px; !* 4px +12px + 4px *!*/
+                line-height: 2;
+                padding-right: 0.5cm;
+                padding-left: 1.5cm;
+                text-align:justify;
+                text-indent: 0px;
+                font-size:20px;
+            }
+
+        </style>
+
+        <center><h2>From Zion to Israel: Ethiopian Jews' Immigration to Israel</h2></center><br>
         <p><span style="font-size:21pt">
             "The ingathering of Black Jews to Israel is one of the most unique phenomena of modem day Black history for two
             reasons; first, the Jews of Ethiopia are the only group of Africans practicing Judaism and second, they are the
